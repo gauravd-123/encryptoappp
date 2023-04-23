@@ -1,0 +1,19 @@
+{
+  "name": "project_web3.0",
+  "version": "1.0.0",
+  "description": "![Krypt](https://i.ibb.co/DVF4tNW/image.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gauravd-123/encryptoapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gauravd-123/encryptoapp/issues"
+  },
+  "homepage": "https://github.com/gauravd-123/encryptoapp#readme"
+}
